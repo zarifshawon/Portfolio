@@ -15,11 +15,6 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Apple News and Stock Price Tracker](#apple-news-and-stock-price-tracker)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
-	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
-	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
-	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
-
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -41,6 +36,8 @@ In this section I will list data analytics projects briefly describing the techn
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [SAP ERP Essential Training](https://www.linkedin.com/learning/certificates/63b18a90c9c5487b8b5c8ee9852857566468494504645e6cd2b9c35c277d2902) (Feb 2024) (LinkedIn Learning)
+- [SQL for Data Analysis](https://www.linkedin.com/learning/certificates/434f25173e514ca041ec4638f810980f6d314138b680c56e6820afb618108eb0) (Jan 2024) (LinkedIn Learning)
+- [Microsoft Project for the Web: Reporting with Power BI](https://www.linkedin.com/learning/certificates/dcb29e9ba88221f279bcff4fde0daf5d9f112f31429f9a20fbc8154fc2c6b9d5) (Dec 2023) (LinkedIn Learning)
 
 
 ## Contacts
