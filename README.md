@@ -1,4 +1,4 @@
-![Cover Photo](https://github.com/zarifshawon/Portfolio/blob/main/images/coverphoto.png)
+![Cover Photo](./images/coverphoto.png)
 
 ## About
 
