@@ -1,4 +1,4 @@
-![Cover Photo](./images/zarif-cover-video.mp4)
+![Cover Photo](/images/zarif-cover-video.mp4)
 
 ## About
 
