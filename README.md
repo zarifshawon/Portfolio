@@ -19,7 +19,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Contacts](#contacts)
   
 ## Skills
-● Data Analysis and visualization ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=0000FF)
+● Data Analysis and visualization ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=0000FF)<br>
 ● Statistical analysis
 ● Microsoft Power BI, Tableau
 ● Python, R, SQL (Programming Language) 
