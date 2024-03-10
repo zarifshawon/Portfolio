@@ -31,8 +31,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** The Apple News and Stock Price Tracker is a web-based application designed to provide users with insights into Apple-related news articles and stock prices over time. This report outlines the development process, key features, and challenges faced during the project.  
 **Skills:** data cleaning(structured and unstructured data), data analysis, web application development,and data visualization.  
 **Technology:** Node.js, React.js, Chart.js.  
-**Results:** Review of Apple-related news articles and stock prices over time.
-![Screenshot](screenshot.png)
+**Results:** Review of Apple-related news articles and stock prices over time.<br>
+![Apple-news-app-tracker](https://github.com/zarifshawon/Portfolio/blob/main/images/apple-news-app-tracker.png)
 
 ### Tableau Vizzes
 **Description:** My Tableau Public account ---> [go to Tableau..]()  
