@@ -27,7 +27,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning(structured and unstructured data), data analysis, web application development,and data visualization.  
 **Technology:** Node.js, React.js, Chart.js.  
 **Results:** Review of Apple-related news articles and stock prices over time.<br>
-![Apple-news-app-tracker](https://github.com/zarifshawon/Portfolio/blob/main/images/apple-news-app-tracker.png)
+![Apple-news-app-tracker](./images/apple-news-app-tracker.png)
 
 ### Tableau Vizzes
 **Description:** My Tableau Public account ---> [go to Tableau..]()  
