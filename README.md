@@ -4,7 +4,7 @@
 
 Hi, I'm Zarif! I have a technical background and hold a Master of Science (M.S.) degree in Micro data analysis from Dalarna University, with a major in Business Intelliegence. I have 5 years of experience in the field of information technology, where I held roles such as Data Analyst/BI specialist, Head of Department, and CTO in a technological startup. After a year of transitioning from software engineer to Data Analysis, I am currently a Data Analyst at a E-commerce company Tech Diversity, starting from Mar 2022.
  
-My CV in [pdf]() 
+My CV in [pdf](https://github.com/zarifshawon/Portfolio/blob/main/Zarif-Mahmud.pdf) 
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
