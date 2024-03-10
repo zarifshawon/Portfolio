@@ -41,5 +41,5 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 
 
 ## Contacts
-- LinkedIn: [@zarif]([https://www.linkedin.com/in/nktnlx](https://www.linkedin.com/in/znmzarifmahmud/)
+- LinkedIn: [@znmzarifmahmud](https://www.linkedin.com/in/znmzarifmahmud/)
 - E-mail: znmzarif@gmail.com
