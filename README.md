@@ -1,4 +1,4 @@
-![Cover Photo](https://github.com/zarifshawon/Portfolio/blob/main/images/zarif-cover-video.mp4)
+![Cover Photo](https://github.com/zarifshawon/Portfolio/blob/main/images/coverphoto.png)
 
 ## About
 
