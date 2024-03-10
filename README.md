@@ -20,13 +20,13 @@ This repository serves to showcase my skills and as a platform to share my proje
   
 ## Skills
 ● Data Analysis and visualization ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=0000FF)<br>
-● Statistical analysis
-● Microsoft Power BI, Tableau
-● Python, R, SQL (Programming Language) 
-● Machine Learning
-● Jira
-● Microsoft Excel
-● Data Modelling
+● Statistical analysis  ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=0000FF)<br>
+● Microsoft Power BI, Tableau  ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=0000FF)<br>
+● Python, R, SQL (Programming Language)  ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=0000FF)<br>
+● Machine Learning  ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=0000FF)<br>
+● Jira  ![](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=0000FF)<br>
+● Microsoft Excel  ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=0000FF)<br>
+● Data Modelling  ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=0000FF)<br>
 
 
 ## Portfolio Projects
