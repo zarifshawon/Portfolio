@@ -31,7 +31,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Tableau Vizzes
 **Description:** My Tableau Public account ---> [go to Tableau..]()  
-**Status:** ∞  
+ 
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
