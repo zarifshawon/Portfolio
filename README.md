@@ -27,7 +27,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Apple News and Stock Price Tracker
-**Code:** [`video_games_sales.ipynb`](https://github.com/zarifshawon/Apple-News-and-Stock-Price-Tracker)    
+**Code:** [`apple_news_app_tracker`](https://github.com/zarifshawon/Apple-News-and-Stock-Price-Tracker)    
 **Description:** The Apple News and Stock Price Tracker is a web-based application designed to provide users with insights into Apple-related news articles and stock prices over time. This report outlines the development process, key features, and challenges faced during the project.  
 **Skills:** data cleaning(structured and unstructured data), data analysis, web application development,and data visualization.  
 **Technology:** Node.js, React.js, Chart.js.  
