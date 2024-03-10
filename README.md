@@ -14,7 +14,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Apple News and Stock Price Tracker](# Apple News and Stock Price Tracker)
+	+ [Apple News and Stock Price Tracker](#apple-news-and-stock-price-tracker)
 	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
