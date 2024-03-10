@@ -1,4 +1,3 @@
-# Zarif Mahmud - Portfolio 
 ![Cover Photo](./images/zarif-cover-video.mp4)
 ## About
 
