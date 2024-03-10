@@ -12,10 +12,22 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Table of contents
 - [About](#about)
+- [Skills](#skills)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Apple News and Stock Price Tracker](#apple-news-and-stock-price-tracker)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
+  
+## Skills
+● Data Analysis and visualization ![](https://geps.dev/progress/32?dangerColor=800000&warningColor=ff9900&successColor=006600)
+● Statistical analysis
+● Microsoft Power BI, Tableau
+● Python, R, SQL (Programming Language) 
+● Machine Learning
+● Jira
+● Microsoft Excel
+● Data Modelling
+
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
